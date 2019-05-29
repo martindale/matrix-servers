@@ -7,7 +7,11 @@ since this website is still in development I have created this repository instea
 
 ## Matrix Server List
 **Servername:** Nova IM
+
 **Domain:** novaim.com
+
 **Maintainer:** @atreatis:novaim.com
+
 **Founded:** 24-05-2019
+
 **Webclient:** [nvaim.com](https://nvaim.com)
