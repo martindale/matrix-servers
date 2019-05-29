@@ -6,12 +6,10 @@ Whenever you are running your own server you can have your server added this wit
 since this website is still in development I have created this repository instead.
 
 ## Matrix Server List
+Hopefully this will help you to find your perfect new home within the matrix network and a place to call home.
+
 **Servername:** Nova IM
-
 **Domain:** novaim.com
-
 **Maintainer:** @atreatis:novaim.com
-
 **Founded:** 24-05-2019
-
 **Webclient:** [nvaim.com](https://nvaim.com)
